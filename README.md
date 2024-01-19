@@ -1,1 +1,2 @@
-# laravel
+# laravel 
+#INSTALAR O COMPOSER / XAMPP PARA RODAR LOCALMENTE 
